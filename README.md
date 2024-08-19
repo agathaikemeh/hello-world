@@ -1,2 +1,2 @@
-# hello-world
+Hi Ikemeh Agatha is an experienced professional with a diverse background spanning project management, executive assistance, and customer support. With a solid foundation in creating and optimizing business processes, Ikemeh is now channeling their passion into software engineering. Driven by a fascination with technology and a desire to solve complex problems, Ikemeh is excited about starting a career in software engineering to leverage their skills in new and innovative ways. Their goal is to build impactful software solutions that enhance efficiency and accessibility, reflecting their commitment to continuous learning and growth in the tech field. # hello-world
 This repository is for practicing the GitHub Flow.
